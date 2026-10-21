@@ -1,0 +1,9 @@
+{
+  "required": false,
+  "package": "dev.aqua.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "HeldItemRendererMixin"
+  ],
+  "injectors": { "defaultRequire": 0 }
+}
